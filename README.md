@@ -1,2 +1,2 @@
-# hello-world
-mobile app design
+# mobile-app-web design
+responsive website
